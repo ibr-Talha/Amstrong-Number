@@ -1,0 +1,2 @@
+# Amstrong-Number
+#Amstrong Numbe
